@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6d48e0ea-3e7e-4ece-906f-849f55c1eaff}">
+		<property name="assetPath">
+			<value>Interactables/Heal/HealPack.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.85999999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{935b46ff-f0e8-4c0b-aead-9b85bc0a5468}</destination>
+		</relationship>
+	</object>
+</objects>

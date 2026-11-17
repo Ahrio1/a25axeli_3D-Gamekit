@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2fefd19c-dcf4-4624-af10-5172c1645b2b}">
+		<property name="assetPath">
+			<value>Interactables/Bell/piano lek sak/260921_014_Tr3-glued-05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.14539583333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{935b46ff-f0e8-4c0b-aead-9b85bc0a5468}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{f8618854-c373-44c8-8f85-db0ba71c87eb}">
+		<property name="assetPath">
+			<value>Interactables/Heal/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{935b46ff-f0e8-4c0b-aead-9b85bc0a5468}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{21c6d2b6-7ac6-4d91-869a-861050c14790}">
+		<property name="assetPath">
+			<value>Sten/Debris sten/Rock sound debris_001_013.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2976643990929706</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{935b46ff-f0e8-4c0b-aead-9b85bc0a5468}</destination>
+		</relationship>
+	</object>
+</objects>

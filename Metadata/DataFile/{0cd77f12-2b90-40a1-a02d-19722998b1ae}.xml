@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{0cd77f12-2b90-40a1-a02d-19722998b1ae}">
+		<property name="assetPath">
+			<value>Sten/peaks/Kasta sten Sound 1.WAV.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{935b46ff-f0e8-4c0b-aead-9b85bc0a5468}</destination>
+		</relationship>
+	</object>
+</objects>

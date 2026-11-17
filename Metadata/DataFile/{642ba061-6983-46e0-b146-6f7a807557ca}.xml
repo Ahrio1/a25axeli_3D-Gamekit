@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{642ba061-6983-46e0-b146-6f7a807557ca}">
+		<property name="assetPath">
+			<value>Interactables/Bell/piano lek sak/peaks/260921_014_Tr3-glued-30.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{935b46ff-f0e8-4c0b-aead-9b85bc0a5468}</destination>
+		</relationship>
+	</object>
+</objects>
